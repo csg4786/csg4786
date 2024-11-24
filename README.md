@@ -23,7 +23,7 @@ Welcome to my little corner of GitHub! 👨‍💻 I’m an enthusiastic lover o
 
 🔭 Currently Working On:<br>
 
-- A Cloud Secure Document Management API with advanced security features.<br>
+- A Cloud Security projects.<br>
 - Exploring Scapy and Snort for network traffic analysis and cybersecurity research.<br><br>
 
 🌱 Currently Learning:<br>
